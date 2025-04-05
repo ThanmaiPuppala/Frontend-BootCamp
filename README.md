@@ -1,2 +1,2 @@
 # Frontend-BootCamp
-It's about skills you will learn in frontend bootcamp
+It's about skills you will gain in frontend bootcamp

@@ -31,7 +31,7 @@ Before starting this bootcamp, you should have:
 
 1.Clone this repository:
 
-git clone https://github.com/your-username/frontend-bootcamp-bootstrap.git
+git clone [https://github.com/ThanmaiPuppala/Frontend-BootCamp.git]
 
 
 2.Navigate to the project directory:
